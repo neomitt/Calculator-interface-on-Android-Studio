@@ -2,4 +2,5 @@
 this calculator interface on Android Studio
 ![Screenshot](https://github.com/neomitt/Calculator-interface-on-Android-Studio/blob/main/screen1.png)
 ![Screenshot](https://github.com/neomitt/Calculator-interface-on-Android-Studio/blob/main/screen2.png)
-### Github teachers: gomarmadi
+### [Github teachers: gomarmadi](https://github.com/gomarmadi)
+
